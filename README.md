@@ -1,4 +1,4 @@
-# Chicken Sense
+# ChickenSense: A Low-Cost Deep Learning-Based Solution for Poultry Feed Consumption Monitoring Using Sound Technology
 
 ![Chicken Sense](ChickenSense.png)
 
